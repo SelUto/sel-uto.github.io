@@ -1,4 +1,4 @@
-utopia-theme-default.github.io
+sel-uto.github.io
 ==============================
 
-The default CSS theme of http://utopia-game.com
+Coolio :)
